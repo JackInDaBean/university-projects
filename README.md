@@ -4,13 +4,13 @@ This is a collection of my University Projects.
 
 -------------------------------------------------------------
 
-Voltage Checker, Uni Assignment
+Voltage Checker, Uni Assignment 3
 
 The brief for this assingment was to read in a voltage from an electrical substation once per hour for six hours. These voltages are then checked to display any voltages that differ from the average by more than 10% It also must display any pairs of consecutive hours where the change from the voltage at one hour to the next is greater than 15% of the average.
 
 -------------------------------------------------------------
 
-Judge Mark Average
+Judge Mark Average, Assignment 2
 
 This was a university assignment that I recently completed.
 
@@ -18,7 +18,7 @@ Goal of the project was to have the user select a number a judges (between 4 and
 
 -------------------------------------------------------------
 
-Difference From Set Date
+Difference From Set Date, Assignment 1
 
 This was a university assignment that was mainly used to test our knowledge of if statements.
 
